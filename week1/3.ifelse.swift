@@ -1,5 +1,5 @@
 //Contoh input
-let resto = "Sushian"
+let resto = "Sushiana"
 let food = "Sushi"
 
 if (resto == ""){
